@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADtor-gon%C3%A7alves-596a9619b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitorrGoncalvess)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorrGoncalvess1&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorrGoncalvess&show_icons=true&theme=onedark)
 
 ## Tecnologias que utilizo no dia-dia
 <div style="display: inline_block"><br/>
@@ -17,7 +17,7 @@
 
 ## Ranking de tecnologia UP em repositório
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/thiagomuller1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/VitorrGoncalvess/github-readme-stats)
 
 ## Contatos
 📧 vitoroseias12345@gmail.com 
